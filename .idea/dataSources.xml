@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DataSourceManagerImpl" format="xml" hash="3982342198">
+    <data-source source="LOCAL" name="Derby - VoteCollectorDb" uuid="ffc4a53c-3e92-4f2e-94fb-0f1a62124ee6">
+      <driver-ref>derby.embedded</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>org.apache.derby.jdbc.EmbeddedDriver</jdbc-driver>
+      <jdbc-url>jdbc:derby:$PROJECT_DIR$/VoteCollectorDb</jdbc-url>
+      <schema-pattern>*</schema-pattern>
+      <libraries />
+    </data-source>
+  </component>
+</project>
+

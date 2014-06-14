@@ -1,0 +1,28 @@
+Done:
+
+Convert to Maven project
+Add dependencies
+Header and footer
+Basic authorization
+JSP pages
+Java beans
+
+
+
+Plans:
+Code coverage
+Add lang switcher
+
+
+Question
+
+
+http://cssmenumaker.com/builder/1259861
+http://xn--80aj1ak1b.xn--p1ai/%D1%8F%D0%B7%D1%8B%D0%BA%D0%B8-%D1%80%D0%B0%D0%B7%D0%BC%D0%B5%D1%82%D0%BA%D0%B8/%D1%83%D1%80%D0%BE%D0%BA%D0%B8-html-css
+http://cooltext.com/Logo-Design?LogoID=953365388&Gradient1=Blue+Green
+http://www.vwhost.org/editor
+http://galartweb.ru/index.php/veb-instrumenty/konstruktor-html-onlajn
+http://www.5byte.ru/html/tag.php
+http://www.petertribble.co.uk/Solaris/jstl-fmt.html
+http://stackoverflow.com/questions/4931323/whats-the-difference-between-getrequesturi-and-getpathinfo-methods-in-httpservl
+http://stackoverflow.com/questions/8309261/how-to-get-session-attribute-with-a-dynamic-key-in-el

@@ -1,0 +1,19 @@
+----------------------------------------------------------------
+Sat Jun 14 16:23:58 EEST 2014:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.10.1.1 - (1458268): instance a816c00e-0146-9a8c-8384-0000083ebbe0 
+on database directory C:\Users\Владислав\IdeaProjects\VoteCollector\VoteCollector\VoteCollectorDb with class loader WebappClassLoader
+  context: /VoteCollector
+  delegate: false
+  repositories:
+----------> Parent Classloader:
+ClassRealm[plugin>org.apache.tomcat.maven:tomcat7-maven-plugin:2.2, parent: sun.misc.Launcher$AppClassLoader@1df95673]
+ 
+Loaded from file:/C:/Users/Владислав/.m2/repository/org/apache/derby/derby/10.10.1.1/derby-10.10.1.1.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.7.0_45-b18
+user.dir=C:\Users\Владислав\IdeaProjects\VoteCollector\VoteCollector
+os.name=Windows 7
+os.arch=amd64
+os.version=6.1
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
